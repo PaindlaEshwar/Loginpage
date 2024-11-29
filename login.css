@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 2px;
+}
+.log{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(214, 223, 223);
+    height: 100vh;
+    border-radius: 10px;
+    padding: 30px 40px;
+}
+.log1{
+    background-color: rgb(56, 152, 112);
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 5px;
+    background-position: center;
+
+}
+.insta{
+    font-weight: bold;
+    font-size: 65px;
+    color: rgb(189, 216, 17);
+}
+.log2{
+    font-size: 36px;
+    text-align: center;
+}
+.inputbox{
+    width: 100px;
+    height: 20px;
+    margin: 10px;
+}
+.inputbox input{
+    border-radius: 6px;
+    color:#1a0505;
+    width: 200px;
+    border: none;
+    height: 100%;
+    border: none;
+    outline: none;
+    
+}
+.inputbox input ::placeholder{
+    color: #fff;
+}
+.reg1{
+    display: flex;
+    justify-content: start;
+    font-size: 15px;
+    margin: 5px 0px 20 px;
+}
+.reg1 label input{
+margin-right: 3px;
+    accent-color: #fff
+}
+.reg1 a:hover{
+    text-decoration: underline;
+
+}
+    
+.btn{
+    color: black;
+    width: 120px;
+    height: 25px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: 600;
+    border: none;
+    outline: none;
+    background: #2f07e1;
+}
+.rem{
+    font-size: 15px;
+}

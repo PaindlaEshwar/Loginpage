@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 20px;
+}
+.first{
+    background-color:#fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(197, 215, 215);
+}
+.pass{
+    font-weight: 140;
+    font-size: 16px;
+}
+.pass input{
+ width: 300px;
+ height: 18px;
+ border-radius: 3px;
+ font-size: 16px;
+}
+.b1{
+    width: 340px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 750;
+    color: #02022e;
+    background-color: rgb(211, 211, 13);
+    border: none;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+    
